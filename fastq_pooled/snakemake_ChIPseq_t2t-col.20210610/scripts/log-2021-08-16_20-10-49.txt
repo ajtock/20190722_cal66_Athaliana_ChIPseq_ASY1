@@ -1,0 +1,451 @@
+000 (240292.000.000) 08/16 20:10:49 Job submitted from host: <172.24.252.201:9865?addrs=172.24.252.201-9865+[--1]-9865>
+...
+022 (240292.000.000) 08/16 20:11:43 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:11:43 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:12:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:12:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:13:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:13:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:14:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:14:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:15:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:15:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:16:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:16:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:17:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:17:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:18:43 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:18:43 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:19:43 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:19:43 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:20:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:20:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:21:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:21:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:22:43 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:22:43 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:23:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:23:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:24:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:24:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:25:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:25:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:26:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:26:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:27:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:27:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:28:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:28:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:29:43 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:29:43 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:30:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:30:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:31:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:31:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:32:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:32:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:33:43 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:33:43 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:34:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:34:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:35:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:35:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:36:43 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:36:43 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:37:43 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:37:43 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:38:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:38:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:39:43 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:39:43 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:40:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:40:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:41:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:41:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:42:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:42:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:43:43 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:43:43 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:44:43 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:44:43 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:45:42 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:45:42 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:46:43 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:46:43 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:47:43 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:47:43 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:48:43 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:48:43 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:49:44 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:49:44 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:50:44 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:50:44 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:51:44 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:51:44 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:52:44 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:52:44 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:53:45 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:53:45 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:54:44 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:54:44 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:55:44 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:55:44 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:56:45 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:56:45 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:57:45 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:57:45 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:58:44 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:58:44 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 20:59:44 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 20:59:44 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 21:00:44 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 21:00:44 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 21:01:44 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 21:01:44 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 21:02:45 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 21:02:45 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+022 (240292.000.000) 08/16 21:03:44 Job disconnected, attempting to reconnect
+    Socket between submit and execute hosts closed unexpectedly
+    Trying to reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk <172.24.252.205:9827?addrs=172.24.252.205-9827+[--1]-9827>
+...
+024 (240292.000.000) 08/16 21:03:44 Job reconnection failed
+    Job not found at execution machine
+    Can not reconnect to slot1_1@node11.plantsci.internal.cam.ac.uk, rescheduling job
+...
+001 (240292.000.000) 08/16 21:04:44 Job executing on host: <172.24.252.206:10879?addrs=172.24.252.206-10879+[--1]-10879>
+...
+006 (240292.000.000) 08/16 21:04:53 Image size of job updated: 1374684
+	1343  -  MemoryUsage of job (MB)
+	1374684  -  ResidentSetSize of job (KB)
+...
+006 (240292.000.000) 08/16 21:09:54 Image size of job updated: 5637608
+	5506  -  MemoryUsage of job (MB)
+	5637608  -  ResidentSetSize of job (KB)
+...
+005 (240292.000.000) 08/16 21:16:40 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 01:59:56, Sys 0 00:00:32  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 01:59:56, Sys 0 00:00:32  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                48        48
+	   Disk (KB)            :     1250     1250  32791797
+	   Memory (MB)          :     5506    50000     50000
+...
